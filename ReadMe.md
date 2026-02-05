@@ -1,4 +1,4 @@
-<h1>Deep Flight Predictor✈️</h1>
+<h1>Flight Delay Predictor✈️</h1>
 Este repositório contém o desenvolvimento de um agente aprendiz baseado numa Rede Neuronal Multicamada (Multilayer Perceptron) para a previsão de atrasos em voos. <br>
  O objetivo principal é implementar um modelo de classificação binária capaz de prever se um voo sofrerá atraso (Classe 1) ou não (Classe 0) com base em atributos operacionais simulados.
 <h2>Arquitetura da Rede</h2>
